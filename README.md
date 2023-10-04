@@ -4,7 +4,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
-For the given Dataset which consists of various sentences , we have to develop a model to correctly predict the tag for each word in the sentence and classify it its corrosponding class. 
+#### For the given Dataset which consists of various sentences , we have to develop a model to correctly predict the tag for each word in the sentence and classify it its corrosponding clas
 ![output](./images/dataset.png)
 
 ## DESIGN STEPS
